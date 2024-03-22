@@ -10665,7 +10665,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 108102422604426640, guid: 254284ef6ad127146a9a7b2c296f4058, type: 3}
       propertyPath: m_Color.b
-      value: 0.0141509175
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 108102422604426640, guid: 254284ef6ad127146a9a7b2c296f4058, type: 3}
       propertyPath: m_Color.g
@@ -10673,11 +10673,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 108102422604426640, guid: 254284ef6ad127146a9a7b2c296f4058, type: 3}
       propertyPath: m_Color.r
-      value: 0.05957966
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 108102422604426640, guid: 254284ef6ad127146a9a7b2c296f4058, type: 3}
       propertyPath: m_Intensity
-      value: 20
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 108102422604426640, guid: 254284ef6ad127146a9a7b2c296f4058, type: 3}
       propertyPath: m_Shadows.m_Type
