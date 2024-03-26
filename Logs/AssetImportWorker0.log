@@ -1,0 +1,307 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19045.3930; Version 2009; 64bit' Language: 'en' Physical Memory: 16106 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/k1637804/Downloads/DEMO-
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52956
+Successfully changed project path to: C:/Users/k1637804/Downloads/DEMO-
+C:/Users/k1637804/Downloads/DEMO-
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/k1637804/Downloads/DEMO-/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x9bc5)
+    Vendor:   
+    VRAM:     8053 MB
+    Driver:   27.20.100.9268
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56068
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001738 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.093 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000709 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.684 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.8 MB.
+System memory in use after: 57.8 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 2.130900 ms (FindLiveObjects: 0.146400 ms CreateObjectMapping: 0.042800 ms MarkObjects: 1.874400 ms  DeleteObjects: 0.066500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_medium_snowy_01.prefab
+  artifactKey: Guid(a85d1edc35b2ed049890c1278faf25e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_medium_snowy_01.prefab using Guid(a85d1edc35b2ed049890c1278faf25e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515c41cafc294e90b3335df433500823') in 0.144475 seconds
+  Import took 0.146817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_medium_01.prefab
+  artifactKey: Guid(1e66d345b10380549a6c704e7469cd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_medium_01.prefab using Guid(1e66d345b10380549a6c704e7469cd40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22439ba3edad604b17b3aea15aa87e92') in 0.027360 seconds
+  Import took 0.029684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs
+  artifactKey: Guid(0305e55ede53bfa4aa6929f76f213ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs using Guid(0305e55ede53bfa4aa6929f76f213ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5813bd34928988c0c7a96354bf718c74') in 0.003138 seconds
+  Import took 0.004920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees
+  artifactKey: Guid(272c63a46783d154982d0ca08c190e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees using Guid(272c63a46783d154982d0ca08c190e62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82db97da3e67b65c7d306cb9f29f8d91') in 0.005945 seconds
+  Import took 0.008598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_01.prefab
+  artifactKey: Guid(cf28940a200ab6c4a956fd7bf2826383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_01.prefab using Guid(cf28940a200ab6c4a956fd7bf2826383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb395833abc898f3d054c0b8ce8ca8c2') in 0.021423 seconds
+  Import took 0.024101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_decorated_01.prefab
+  artifactKey: Guid(4de4ac658c9cea7479484fcb0a37d916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_decorated_01.prefab using Guid(4de4ac658c9cea7479484fcb0a37d916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58d4fc8a815929587e64d14b01bb205') in 0.067083 seconds
+  Import took 0.069154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_snowy_01.prefab
+  artifactKey: Guid(7d88a0a8be53f244b88192f9c7ba255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_tall_snowy_01.prefab using Guid(7d88a0a8be53f244b88192f9c7ba255b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3efb58bbd14dbe30ac5dd1a43dc23329') in 0.010667 seconds
+  Import took 0.013584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_small_01.prefab
+  artifactKey: Guid(6c1f57bfa0b96ec46b492924aebc0f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_small_01.prefab using Guid(6c1f57bfa0b96ec46b492924aebc0f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb79df5bb234994db3bb1d9a5779ac78') in 0.010304 seconds
+  Import took 0.012194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Lights.prefab
+  artifactKey: Guid(254284ef6ad127146a9a7b2c296f4058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Lights.prefab using Guid(254284ef6ad127146a9a7b2c296f4058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73afccca8968f7c059bb5b0040a5001') in 0.004393 seconds
+  Import took 0.006054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_small_snowy_01.prefab
+  artifactKey: Guid(a5e2b1af166b66644b1ee5e73fe2a182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Trees/pine_small_snowy_01.prefab using Guid(a5e2b1af166b66644b1ee5e73fe2a182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dd98cef92c5b546c6c19cba47df4b57') in 0.011045 seconds
+  Import took 0.012897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.898247 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/church.prefab
+  artifactKey: Guid(a9a4fe2cf93dc4441bc561a088922f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/church.prefab using Guid(a9a4fe2cf93dc4441bc561a088922f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2009f63e4c24ee8873ca2f9fe4360210') in 0.017647 seconds
+  Import took 0.020259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_01.prefab
+  artifactKey: Guid(e5e18d88ba25e7d40a37f48c27b89dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_01.prefab using Guid(e5e18d88ba25e7d40a37f48c27b89dab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f63d274eab165efc25d120c4a5ebd2') in 0.023287 seconds
+  Import took 0.030268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000372 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_nightlights_02.prefab
+  artifactKey: Guid(5db6a055f739fb445b08f16046d8f5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_nightlights_02.prefab using Guid(5db6a055f739fb445b08f16046d8f5d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf7269178668c796226842b3b581141') in 0.017355 seconds
+  Import took 0.020052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000524 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_02.prefab
+  artifactKey: Guid(150cb4b70a28e9f4bb38aeb7fdbca262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_02.prefab using Guid(150cb4b70a28e9f4bb38aeb7fdbca262) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adae3a6163dc73c8d06bb56ba5d7564d') in 0.017299 seconds
+  Import took 0.021244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_04.prefab
+  artifactKey: Guid(f6e634a61f76465419469de216a0df0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_04.prefab using Guid(f6e634a61f76465419469de216a0df0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188e646443fcd9ce5c4e43e0d5b44f32') in 0.023713 seconds
+  Import took 0.026582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000427 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_03.prefab
+  artifactKey: Guid(8b4e04a1023f4f34fbe4c116242ee0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_03.prefab using Guid(8b4e04a1023f4f34fbe4c116242ee0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad3a3a4fb0a369e9e15722e5204b891') in 0.017120 seconds
+  Import took 0.021372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_03.prefab
+  artifactKey: Guid(4f2d488708e69554686e2918c54664ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_03.prefab using Guid(4f2d488708e69554686e2918c54664ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af9e9d3f457af0a34f601c8ac2817c80') in 0.016054 seconds
+  Import took 0.019134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_nightlights_01.prefab
+  artifactKey: Guid(dfc32ec31ef61ab49a31f3a4f4af24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_nightlights_01.prefab using Guid(dfc32ec31ef61ab49a31f3a4f4af24c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee5e70145fda5e95d10c9d4f4f57c64') in 0.016675 seconds
+  Import took 0.019516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_01.prefab
+  artifactKey: Guid(7fecee1c8ed628944be53e7c96c12e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_nightlights_01.prefab using Guid(7fecee1c8ed628944be53e7c96c12e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc785a8f4f81735ef1333981a6dea72') in 0.018113 seconds
+  Import took 0.020930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_02.prefab
+  artifactKey: Guid(2b8c321fa7173944f9d9962142a838c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_long_02.prefab using Guid(2b8c321fa7173944f9d9962142a838c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf9f498c64ea573d652d14262a9e87e') in 0.019527 seconds
+  Import took 0.022096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_04.prefab
+  artifactKey: Guid(9c0ea8d8fcae9b54495e54ac092e6ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_04.prefab using Guid(9c0ea8d8fcae9b54495e54ac092e6ccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '162792a9b219cd1f755fb99c7e5efa3f') in 0.016313 seconds
+  Import took 0.019936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_02.prefab
+  artifactKey: Guid(9763b3c03595b0646a53e5f76c3a8b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_02.prefab using Guid(9763b3c03595b0646a53e5f76c3a8b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a90e85bc69897c0858c6b1b9488b3565') in 0.018545 seconds
+  Import took 0.022552 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/church_nightlights.prefab
+  artifactKey: Guid(23ca8a2b724a5454ba37964c32f0023b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/church_nightlights.prefab using Guid(23ca8a2b724a5454ba37964c32f0023b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6346f02a70d51c16704c9cacd14d9a5') in 0.020104 seconds
+  Import took 0.023879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000473 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_01.prefab
+  artifactKey: Guid(89f7d815015adec4fb10b883d90608a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Buildings/house_simple_01.prefab using Guid(89f7d815015adec4fb10b883d90608a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e566a204aaf2b533e114163caac1736f') in 0.017012 seconds
+  Import took 0.020438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.941325 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_01.prefab
+  artifactKey: Guid(d02a52f9bab83eb489c605dfebaf95ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_01.prefab using Guid(d02a52f9bab83eb489c605dfebaf95ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20c5d148fc108a2315a74f6ca8cf0f8') in 0.010375 seconds
+  Import took 0.012393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/clifftop_01.prefab
+  artifactKey: Guid(166fa84394171cf419c82289de2f2fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/clifftop_01.prefab using Guid(166fa84394171cf419c82289de2f2fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8745a19fcd5fe1019939a230ba3820') in 0.013392 seconds
+  Import took 0.015453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_03.prefab
+  artifactKey: Guid(2e577f0b9d71c344e9e0c77c9c91ae79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_03.prefab using Guid(2e577f0b9d71c344e9e0c77c9c91ae79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdc535fd2b14965636f175adc2b38c2') in 0.010592 seconds
+  Import took 0.013149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_group_01.prefab
+  artifactKey: Guid(edffbc9d9a9991241a2171db706070c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_group_01.prefab using Guid(edffbc9d9a9991241a2171db706070c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aa4dce875e5b3c97b603cce271117dd') in 0.022193 seconds
+  Import took 0.025672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_02.prefab
+  artifactKey: Guid(fe5d1718bf10c17478fd737bba285cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Zololgo/PaperLands Winter Village/Prefabs/Cliffs/cliff_02.prefab using Guid(fe5d1718bf10c17478fd737bba285cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc080433fa21628830e9b596e36cf76') in 0.012124 seconds
+  Import took 0.014241 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
